@@ -1,0 +1,219 @@
+@media (max-width: 576px) {
+  .footer-contact {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: #eeeeee;
+    background-image: none;
+    min-height: 60px;
+  }
+  .footer-contact-box {
+    /* width: 50%; */
+    margin-top: 20px;
+  }
+  .list-group-item-contact {
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    background: none !important;
+    color: #666666 !important;
+    font-family: Avenir LT Std;
+    font-size: 16px;
+    font-style: normal;
+    /* font-weight: 400; */
+    line-height: normal;
+  }
+  .copyright {
+    background-color: rgba(255, 255, 255, 0);
+    background-image: none;
+    min-height: 80px;
+    border-style: solid;
+    border-width: 0px;
+    border-top-width: 1px;
+    border-top-color: #d7d7d7;
+    padding-top: 35px;
+  }
+  .social {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media ((min-width: 576px) and (max-width:768px)) {
+  .footer-contact {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: #eeeeee;
+    background-image: none;
+    min-height: 60px;
+  }
+  .footer-contact-box {
+    /* width: 50%; */
+    margin-top: 20px;
+  }
+  .list-group-item-contact {
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    background: none !important;
+    color: #666666 !important;
+    font-family: Avenir LT Std;
+    font-size: 16px;
+    font-style: normal;
+    /* font-weight: 400; */
+    line-height: normal;
+  }
+  .copyright {
+    background-color: rgba(255, 255, 255, 0);
+    background-image: none;
+    min-height: 80px;
+    border-style: solid;
+    border-width: 0px;
+    border-top-width: 1px;
+    border-top-color: #d7d7d7;
+    padding-top: 35px;
+  }
+  .social {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media ((min-width: 769px) and (max-width:992px)) {
+  .footer-contact {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: #eeeeee;
+    background-image: none;
+    min-height: 60px;
+  }
+  .footer-contact-box {
+    /* width: 50%; */
+    margin-top: 20px;
+  }
+  .list-group-item-contact {
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    background: none !important;
+    color: #666666 !important;
+    font-family: Avenir LT Std;
+    font-size: 16px;
+    font-style: normal;
+    /* font-weight: 400; */
+    line-height: normal;
+  }
+  .copyright {
+    background-color: rgba(255, 255, 255, 0);
+    background-image: none;
+    min-height: 80px;
+    border-style: solid;
+    border-width: 0px;
+    border-top-width: 1px;
+    border-top-color: #d7d7d7;
+    padding-top: 35px;
+  }
+  .social {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media ((min-width: 993px) and (max-width:1200px)) {
+  .adresses {
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer-contact {
+    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+    background-color: #eeeeee;
+    background-image: none;
+    min-height: 60px;
+  }
+  .footer-contact-box {
+    width: 50%;
+  }
+  .list-group-item-contact {
+    /* text-align: center; */
+    text-decoration: none;
+    border: none;
+    background: none !important;
+    color: #666666 !important;
+    font-family: Avenir LT Std;
+    font-size: 16px;
+    font-style: normal;
+    /* font-weight: 400; */
+    line-height: normal;
+  }
+  .copyright {
+    background-color: rgba(255, 255, 255, 0);
+    background-image: none;
+    min-height: 80px;
+    border-style: solid;
+    border-width: 0px;
+    border-top-width: 1px;
+    border-top-color: #d7d7d7;
+    padding-top: 35px;
+  }
+  .footer-menu {
+    display: flex;
+    justify-content: end;
+  }
+  .social {
+    display: flex;
+    justify-content: end;
+  }
+}
+@media (min-width: 1200px) {
+  .adresses {
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer-contact {
+    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+    background-color: #eeeeee;
+    background-image: none;
+    min-height: 60px;
+  }
+  .footer-contact-box {
+    width: 50%;
+  }
+  .list-group-item-contact {
+    /* text-align: center; */
+    text-decoration: none;
+    border: none;
+    background: none !important;
+    color: #666666 !important;
+    font-family: Avenir LT Std;
+    font-size: 16px;
+    font-style: normal;
+    /* font-weight: 400; */
+    line-height: normal;
+  }
+  .copyright {
+    background-color: rgba(255, 255, 255, 0);
+    background-image: none;
+    min-height: 80px;
+    border-style: solid;
+    border-width: 0px;
+    border-top-width: 1px;
+    border-top-color: #d7d7d7;
+    padding-top: 35px;
+  }
+  .footer-menu {
+    display: flex;
+    justify-content: end;
+  }
+  .social {
+    display: flex;
+    justify-content: end;
+  }
+}

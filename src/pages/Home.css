@@ -1,0 +1,1555 @@
+@media (max-width: 576px) {
+  .Home-page {
+    background-image: url(../images/Aybenhomephotomobile.png);
+
+    background-size: contain;
+  }
+  .phome {
+    padding-top: 210px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 45px;
+  }
+
+  h2 {
+    color: #5d20d5;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .Welcome-to-aybben {
+    margin-top: 70px;
+    color: white;
+  }
+  .ayb {
+    color: #c499ff;
+    font-family: "Inter", Sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: normal;
+  }
+  .ben {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: normal;
+  }
+  .welcome {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .to {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .homeToContact {
+    color: black;
+    text-decoration: none;
+  }
+  .Services {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-top: 75px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .ServicesHeader {
+    color: #5d20d5;
+    font-family: "Inter", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+  }
+  .WhatWeOffer {
+    color: #321b6d;
+    font-family: "Inter", Sans-serif;
+    font-size: 34px;
+    line-height: 41.15px;
+  }
+  .ServicesText > p {
+    padding-left: 44px;
+    padding-right: 44px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+    text-align: center;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.36px;
+  }
+  .cards {
+    /* display: flex; */
+    /* justify-content: space-around; */
+  }
+  .cards > div > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .cards > div > p {
+    color: #666666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.3);
+  }
+  .cards > div {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s,
+      box-shadow 0.3s;
+    margin-top: 20px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+  .SEO-Content-Services {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .SEO-Content-Services > div > h1 {
+    color: #fefcff;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .SEO-Content-Services > div > h2 {
+    color: #71e1e2;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .SEO-Content-Services > div > b {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .Outcomes {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .icon {
+    width: 45px;
+    height: 45px;
+  }
+  .OurSeo {
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+  .cardsSeo > div > h1 {
+    text-align: center;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    color: #321b6d;
+  }
+  .Pric {
+    background-color: #ffffff;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .cardPricing > div {
+    padding-top: 10px !important;
+  }
+  .cardPricing > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .tariff {
+    margin-bottom: 10px;
+    padding: 22px 22px 22px 22px;
+    background-color: #0683d7;
+    border-radius: 10px 10px 0px 0px;
+  }
+  .tariff-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 14.17px;
+    line-height: 16.61px;
+    /* text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); */
+    fill: #ffffff;
+    color: #ffffff;
+    background-color: #8d3fd0;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 0px 0px;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  .Blogs {
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .blogs {
+    /* width: 48%; */
+  }
+
+  .blogs-Treasure {
+    /* width: 50%; */
+    text-align: center;
+  }
+  .blogs-Treasure > p {
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .blogs-Treasure > h1 {
+    color: #321b6d;
+  }
+
+  .blogs-card {
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* width: 47%; */
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: white;
+  }
+  .blog-header {
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .Customer-Testimonials {
+    border-top: 2px solid #e7e5e5;
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .blog-text {
+    text-align: left;
+    color: #514d4d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    line-height: 24.2px;
+  }
+  .Name_surname {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20.85px;
+    line-height: 26.21px;
+  }
+  .Customer-card {
+    padding: 24px !important;
+  }
+
+  .customer-button {
+    border: none;
+    background-color: #0683d7;
+    color: white;
+    text-decoration: none;
+  }
+  .we-only {
+    color: #321b6d;
+    text-align: center;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .we-only + b {
+    text-align: center;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+  .list-group-item {
+    position: inherit;
+  }
+}
+@media ((min-width: 577px) and (max-width:768px)) {
+  .Home-page {
+    background-image: url(../images/homepage768.png);
+
+    background-size: contain;
+  }
+  .phome {
+    padding-top: 210px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 45px;
+  }
+
+  h2 {
+    color: #5d20d5;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .Welcome-to-aybben {
+    margin-top: 70px;
+    color: white;
+  }
+  .ayb {
+    color: #c499ff;
+    font-family: "Inter", Sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: normal;
+  }
+  .ben {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: normal;
+  }
+  .welcome {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .to {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .homeToContact {
+    color: black;
+    text-decoration: none;
+  }
+  .Services {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-top: 75px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .ServicesHeader {
+    color: #5d20d5;
+    font-family: "Inter", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+  }
+  .WhatWeOffer {
+    color: #321b6d;
+    font-family: "Inter", Sans-serif;
+    font-size: 34px;
+    line-height: 41.15px;
+  }
+  .ServicesText > p {
+    padding-left: 44px;
+    padding-right: 44px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+    text-align: center;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.36px;
+  }
+  .cards {
+    display: flex;
+    flex-grow: 2;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    /* justify-content: space-around; */
+  }
+  .cards > div > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .cards > div > p {
+    color: #666666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.3);
+  }
+  .cards > div {
+    width: 48%;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s,
+      box-shadow 0.3s;
+    margin-top: 20px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+  .SEO-Content-Services {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .SEO-Content-Services > div > h1 {
+    color: #fefcff;
+    font-family: "Inter", Sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .SEO-Content-Services > div > h2 {
+    color: #71e1e2;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .SEO-Content-Services > div > b {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .Outcomes {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .icon {
+    width: 45px;
+    height: 45px;
+  }
+  .OurSeo {
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+  .cardsSeo > div > h1 {
+    text-align: center;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    color: #321b6d;
+  }
+  .Pric {
+    background-color: #ffffff;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .cardPricing > div {
+    padding-top: 10px !important;
+  }
+  .cardPricing > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .tariff {
+    margin-bottom: 10px;
+    padding: 22px 22px 22px 22px;
+    background-color: #0683d7;
+    border-radius: 10px 10px 0px 0px;
+  }
+  .tariff-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 14.17px;
+    line-height: 16.61px;
+    /* text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); */
+    fill: #ffffff;
+    color: #ffffff;
+    background-color: #8d3fd0;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 0px 0px;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  .Blogs {
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .blogs {
+    /* width: 48%; */
+  }
+
+  .blogs-Treasure {
+    /* width: 50%; */
+    text-align: center;
+  }
+  /* .blogs-Treasure > p {
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  } */
+  .blogs-Treasure > h1 {
+    color: #321b6d;
+  }
+
+  .blogs-card {
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 48%;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: white;
+  }
+  .blogs-card-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .blog-header {
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .Customer-Testimonials {
+    border-top: 2px solid #e7e5e5;
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .blog-text {
+    text-align: left;
+    color: #514d4d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    line-height: 24.2px;
+  }
+  .Name_surname {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20.85px;
+    line-height: 26.21px;
+  }
+  .Customer-card {
+    padding: 24px !important;
+  }
+
+  .customer-button {
+    border: none;
+    background-color: #0683d7;
+    color: white;
+    text-decoration: none;
+  }
+  .we-only {
+    color: #321b6d;
+    text-align: center;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .we-only + b {
+    text-align: center;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+  .list-group-item {
+    position: inherit;
+  }
+}
+@media ((min-width: 769px) and (max-width:992px)) {
+  .Home-page {
+    background-image: url(../images/homepage768.png);
+
+    background-size: contain;
+  }
+  .phome {
+    padding-top: 210px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 45px;
+  }
+
+  h2 {
+    color: #5d20d5;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .Welcome-to-aybben {
+    margin-top: 70px;
+    color: white;
+  }
+  .Welcome-to-aybben > p {
+    column-gap: 0px;
+    text-align: left;
+    color: #ffffff;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+  }
+
+  .ayb {
+    color: #c499ff;
+    font-family: "Inter", Sans-serif;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: normal;
+  }
+  .ben {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: normal;
+  }
+  .welcome {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .to {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .homeToContact {
+    color: black;
+    text-decoration: none;
+  }
+  .Services {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-top: 75px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .ServicesHeader {
+    color: #5d20d5;
+    font-family: "Inter", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+  }
+  .WhatWeOffer {
+    color: #321b6d;
+    font-family: "Inter", Sans-serif;
+    font-size: 34px;
+    line-height: 41.15px;
+  }
+  .ServicesText > p {
+    padding-left: 44px;
+    padding-right: 44px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+    text-align: center;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.36px;
+  }
+  .cards {
+    display: flex;
+    flex-grow: 2;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .cards > div > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .cards > div > p {
+    color: #666666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.3);
+  }
+  .cards > div {
+    width: 32%;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s,
+      box-shadow 0.3s;
+    margin-top: 20px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+  .SEO-Content-Services {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .SEO-Content-Services > div > h1 {
+    color: #fefcff;
+    font-family: "Inter", Sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .SEO-Content-Services > div > h2 {
+    color: #71e1e2;
+    font-family: "Inter", Sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .SEO-Content-Services > div > b {
+    color: #fff;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .Outcomes {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .icon {
+    width: 45px;
+    height: 45px;
+  }
+  .OurSeo {
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+  .cardsSeo > div > h1 {
+    text-align: center;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    color: #321b6d;
+  }
+  .Pric {
+    background-color: #ffffff;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .cardPricing > div {
+    padding-top: 10px !important;
+  }
+  .cardPricing > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .tariff {
+    margin-bottom: 10px;
+    padding: 22px 22px 22px 22px;
+    background-color: #0683d7;
+    border-radius: 10px 10px 0px 0px;
+  }
+  .tariff-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 14.17px;
+    line-height: 16.61px;
+    fill: #ffffff;
+    color: #ffffff;
+    background-color: #8d3fd0;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 0px 0px;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  .Blogs {
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+
+  .blogs-card-div {
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .blogs-Treasure {
+    text-align: center;
+  }
+  .blogs-Treasure > h1 {
+    color: #321b6d;
+  }
+
+  .blogs-card {
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 32%;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: white;
+  }
+  .blog-header {
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .Customer-Testimonials {
+    border-top: 2px solid #e7e5e5;
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .blog-text {
+    text-align: left;
+    color: #514d4d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    line-height: 24.2px;
+  }
+  .Name_surname {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20.85px;
+    line-height: 26.21px;
+  }
+  .Customer-card {
+    padding: 24px !important;
+  }
+
+  .customer-button {
+    border: none;
+    background-color: #0683d7;
+    color: white;
+    text-decoration: none;
+  }
+  .we-only {
+    color: #321b6d;
+    text-align: center;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .we-only + b {
+    text-align: center;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+  .list-group-item {
+    position: inherit;
+  }
+}
+
+@media ((min-width: 993px)and (max-width:1200px)) {
+  .Home-page {
+    background-image: url(../images/AybbenHomephoto.jpg);
+
+    background-size: contain;
+  }
+  .phome {
+    padding-top: 70px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+
+  h2 {
+    color: #5d20d5;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .Welcome-to-aybben {
+    width: 504px;
+    height: 418px;
+    margin-top: 70px;
+    color: white;
+  }
+  .ayb {
+    color: #c499ff;
+    font-family: "Inter", Sans-serif;
+    font-size: 96px;
+    line-height: 115px;
+  }
+  .ben {
+    font-size: 96px;
+  }
+  .welcome {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 60px;
+    line-height: 72px;
+  }
+  .to {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 64px;
+    line-height: 76.8px;
+  }
+  .homeToContact {
+    color: black;
+    text-decoration: none;
+  }
+  .Services {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-top: 75px;
+    padding-bottom: 74px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .ServicesHeader {
+    color: #5d20d5;
+    font-family: "Inter", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+  }
+  .WhatWeOffer {
+    color: #321b6d;
+    font-family: "Inter", Sans-serif;
+    font-size: 34px;
+    line-height: 41.15px;
+  }
+  .ServicesText > p {
+    padding-left: 44px;
+    padding-right: 44px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  .cards > div > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .cards > div > p {
+    color: #666666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.3);
+  }
+  .cards > div {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s,
+      box-shadow 0.3s;
+    width: 33.33%;
+    margin: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+  .SEO-Content-Services {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .SEO-Content-Services > div > h1 {
+    color: #fefcff;
+    font-family: "Inter", Sans-serif;
+    font-size: 34px;
+    line-height: 41.15px;
+  }
+  .SEO-Content-Services > div > b {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 24px;
+  }
+  .Outcomes {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .icon {
+    width: 45px;
+    height: 45px;
+  }
+  .OurSeo {
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .cardsSeo > div > h1 {
+    text-align: center;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    color: #321b6d;
+  }
+  .Pric {
+    background-color: #ffffff;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .cardPricing {
+    display: flex;
+    justify-content: space-around;
+  }
+  .cardPricing > div {
+    padding-top: 10px !important;
+  }
+  .cardPricing > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .tariff {
+    margin-bottom: 10px;
+    padding: 22px 22px 22px 22px;
+    background-color: #0683d7;
+    border-radius: 10px 10px 0px 0px;
+  }
+  .tariff-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 14.17px;
+    line-height: 16.61px;
+    /* text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); */
+    fill: #ffffff;
+    color: #ffffff;
+    background-color: #8d3fd0;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 0px 0px;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  .Blogs {
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .blogs {
+    text-align: center;
+    /* width: 48%; */
+  }
+  .blogs-card-div {
+    display: flex;
+  }
+
+  .blogs-Treasure {
+    /* width: 50%; */
+  }
+  .blogs-Treasure > p {
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .blogs-Treasure > h1 {
+    color: #321b6d;
+  }
+  .blogs-Treasure > p {
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .blogs-card {
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 47%;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    padding: 20px;
+    background-color: white;
+  }
+  .blog-header {
+    display: flex;
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .Customer-Testimonials {
+    border-top: 2px solid #e7e5e5;
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .blog-text {
+    text-align: left;
+    color: #514d4d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    line-height: 24.2px;
+  }
+  .Name_surname {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20.85px;
+    line-height: 26.21px;
+  }
+  .Customer-card {
+    padding: 24px !important;
+  }
+
+  .customer-button {
+    border: none;
+    background-color: #0683d7;
+    color: white;
+    text-decoration: none;
+  }
+  .we-only {
+    color: #321b6d;
+    font-family: "Inter", Sans-serif;
+    font-size: 32px;
+    line-height: 38.4px;
+  }
+  .we-only + b {
+    text-align: center;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+  .list-group-item {
+    position: inherit;
+  }
+}
+@media (min-width: 1200px) {
+  .Home-page {
+    background-image: url(../images/AybbenHomephoto.jpg);
+
+    background-size: contain;
+  }
+  .phome {
+    padding-top: 70px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+
+  h2 {
+    color: #5d20d5;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .Welcome-to-aybben {
+    width: 504px;
+    height: 418px;
+    margin-top: 70px;
+    color: white;
+  }
+  .ayb {
+    color: #c499ff;
+    font-family: "Inter", Sans-serif;
+    font-size: 96px;
+    line-height: 115px;
+  }
+  .ben {
+    font-size: 96px;
+  }
+  .welcome {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 60px;
+    line-height: 72px;
+  }
+  .to {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 64px;
+    line-height: 76.8px;
+  }
+  .homeToContact {
+    color: black;
+    text-decoration: none;
+  }
+  .Services {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-top: 75px;
+    padding-bottom: 74px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .ServicesHeader {
+    color: #5d20d5;
+    font-family: "Inter", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+  }
+  .WhatWeOffer {
+    color: #321b6d;
+    font-family: "Inter", Sans-serif;
+    font-size: 34px;
+    line-height: 41.15px;
+  }
+  .ServicesText > p {
+    padding-left: 44px;
+    padding-right: 44px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  .cards > div > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .cards > div > p {
+    color: #666666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.3);
+  }
+  .cards > div {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s,
+      box-shadow 0.3s;
+    width: 33.33%;
+    margin: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+  .SEO-Content-Services {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .SEO-Content-Services > div > h1 {
+    color: #fefcff;
+    font-family: "Inter", Sans-serif;
+    font-size: 34px;
+    line-height: 41.15px;
+  }
+  .SEO-Content-Services > div > b {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 24px;
+  }
+  .Outcomes {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .icon {
+    width: 45px;
+    height: 45px;
+  }
+  .OurSeo {
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .cardsSeo > div > h1 {
+    text-align: center;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    color: #321b6d;
+  }
+  .Pric {
+    background-color: #ffffff;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .cardPricing {
+    display: flex;
+    justify-content: space-around;
+  }
+  .cardPricing > div {
+    padding-top: 10px !important;
+  }
+  .cardPricing > h2 {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 24px;
+    line-height: 29.05px;
+    -webkit-text-stroke-width: 0.5px;
+  }
+  .tariff {
+    margin-bottom: 10px;
+    padding: 22px 22px 22px 22px;
+    background-color: #0683d7;
+    border-radius: 10px 10px 0px 0px;
+  }
+  .tariff-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 14.17px;
+    line-height: 16.61px;
+    /* text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); */
+    fill: #ffffff;
+    color: #ffffff;
+    background-color: #8d3fd0;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 0px 0px;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  .Blogs {
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .blogs {
+    text-align: center;
+    /* width: 48%; */
+  }
+  .blogs-card-div {
+    display: flex;
+  }
+
+  .blogs-Treasure {
+    /* width: 50%; */
+  }
+  .blogs-Treasure > p {
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .blogs-Treasure > h1 {
+    color: #321b6d;
+  }
+
+  .blogs-card {
+    border-style: none;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 47%;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    padding: 20px;
+    background-color: white;
+  }
+  .blog-header {
+    display: flex;
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .Customer-Testimonials {
+    border-top: 2px solid #e7e5e5;
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+  .Customer-Testimonials > div > p {
+    color: #666;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .blog-text {
+    text-align: left;
+    color: #514d4d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    line-height: 24.2px;
+  }
+  .Name_surname {
+    color: #321b6d;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20.85px;
+    line-height: 26.21px;
+  }
+  .Customer-card {
+    padding: 24px !important;
+  }
+
+  .customer-button {
+    border: none;
+    background-color: #0683d7;
+    color: white;
+    text-decoration: none;
+  }
+  .we-only {
+    color: #321b6d;
+    font-family: "Inter", Sans-serif;
+    font-size: 32px;
+    line-height: 38.4px;
+  }
+  .we-only + b {
+    text-align: center;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+  .list-group-item {
+    position: inherit;
+  }
+}

@@ -1,0 +1,314 @@
+@media (max-width: 576px) {
+  .about-page {
+    background-image: url(../images/AboutUsphoto.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+  }
+  .aboutUS > h2 {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .aboutUS > h1 {
+    color: #00c3ee;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    line-height: 36px;
+    margin-bottom: 20px;
+  }
+  .aboutUS > p {
+    color: #ffffff;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .aboutUS {
+    padding-top: 335px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 35px;
+  }
+  .The-Core-Values {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: white;
+  }
+
+  .The-Core-Values > h1 {
+    color: #0683d7;
+    font-family: "Inter", Sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .Mission-Statement > h2 {
+    color: #0683d7 !important;
+  }
+
+  .Mission-Statement > p {
+    margin-bottom: 20px;
+    text-align: left;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
+@media ((min-width: 576px) and (max-width:768px)) {
+  .about-page {
+    background-image: url(../images/AboutUsphoto.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+  }
+  .aboutUS > h2 {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .aboutUS > h1 {
+    color: #00c3ee;
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    line-height: 36px;
+    margin-bottom: 20px;
+  }
+  .aboutUS > p {
+    color: #ffffff;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .aboutUS {
+    padding-top: 335px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 35px;
+  }
+  .The-Core-Values {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: white;
+  }
+
+  .The-Core-Values > h1 {
+    color: #0683d7;
+    font-family: "Inter", Sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .Mission-Statement > h2 {
+    color: #0683d7 !important;
+  }
+
+  .Mission-Statement > p {
+    margin-bottom: 20px;
+    text-align: left;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
+@media ((min-width: 769px) and (max-width:992px)) {
+  .about-page {
+    background-image: url(../images/AboutUsphoto.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+  }
+  .aboutUS > h2 {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .aboutUS > h1 {
+    color: #00c3ee;
+    font-family: "Inter", Sans-serif;
+    font-size: 26px;
+    line-height: 36px;
+    margin-bottom: 20px;
+  }
+  .aboutUS > p {
+    color: #ffffff;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .aboutUS {
+    /* text-align: center; */
+
+    padding-top: 125px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 35px;
+  }
+  .The-Core-Values {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: white;
+  }
+
+  .The-Core-Values > h1 {
+    color: #0683d7;
+    font-family: "Inter", Sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .Mission-Statement > h2 {
+    color: #0683d7 !important;
+  }
+
+  .Mission-Statement > p {
+    margin-bottom: 20px;
+    text-align: left;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
+@media ((min-width: 993px) and (max-width:1200px)) {
+  .about-page {
+    background-image: url(../images/abou.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+  }
+  .aboutUS > h2 {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 20px;
+  }
+  .aboutUS > h1 {
+    color: #00c3ee;
+    font-family: "Inter", Sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 20px;
+  }
+  .aboutUS > p {
+    color: #ffffff;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .aboutUS {
+    width: 53%;
+    padding-top: 74px;
+    padding-left: 74px;
+    padding-right: 74px;
+    padding-bottom: 35px;
+  }
+  .The-Core-Values {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 74px;
+    padding-right: 74px;
+    background-color: white;
+  }
+
+  .The-Core-Values > h1 {
+    color: #0683d7;
+    font-family: "Inter", Sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .Mission-Statement > h2 {
+    color: #0683d7 !important;
+  }
+
+  .Mission-Statement > p {
+    margin-bottom: 20px;
+    text-align: left;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
+@media (min-width:1200px) {
+  .about-page {
+    background-image: url(../images/abou.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+  }
+  .aboutUS > h2 {
+    color: #ffffff;
+    font-family: "Inter", Sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 20px;
+  }
+  .aboutUS > h1 {
+    color: #00c3ee;
+    font-family: "Inter", Sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 20px;
+  }
+  .aboutUS > p {
+    color: #ffffff;
+    font-family: "Source Sans Pro", Sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .aboutUS {
+    width: 53%;
+    padding-top: 74px;
+    padding-left: 74px;
+    padding-right: 74px;
+    padding-bottom: 35px;
+  }
+  .The-Core-Values {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 74px;
+    padding-right: 74px;
+    background-color: white;
+  }
+
+  .The-Core-Values > h1 {
+    color: #0683d7;
+    font-family: "Inter", Sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .Mission-Statement > h2 {
+    color: #0683d7 !important;
+  }
+
+  .Mission-Statement > p {
+    margin-bottom: 20px;
+    text-align: left;
+    color: #666666;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
+
