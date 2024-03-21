@@ -1,9 +1,10 @@
-.ContentServicesnavbar {
-  position: unset;
-  background-color: #5d20d5;
-  height: 90px;
-}
+
 @media (max-width: 576px) {
+  .ContentServicesnavbarthetruth {
+    position: unset;
+    background-color: #5d20d5;
+    height: 90px;
+  }
   .The-Truth-content {
     display: flex;
     flex-direction: column-reverse;
@@ -52,6 +53,11 @@
   }
 }
 @media ((min-width: 577px) and (max-width:768px)) {
+  .ContentServicesnavbarthetruth {
+    position: unset;
+    background-color: #5d20d5;
+    height: 90px;
+  }
   .The-Truth-content {
     display: flex;
     flex-direction: column-reverse;
@@ -100,6 +106,11 @@
   }
 }
 @media ((min-width: 769px) and (max-width:992px)) {
+  .ContentServicesnavbarthetruth {
+    position: unset;
+    background-color: #5d20d5;
+    height: 90px;
+  }
   .The-Truth-content {
     display: flex;
     flex-direction: column-reverse;

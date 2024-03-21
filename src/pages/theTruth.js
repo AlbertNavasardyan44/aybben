@@ -21,7 +21,7 @@ function theTruth() {
 
     return (
         <div>
-            <div className=" ContentServicesnavbar " >  <Navbar />
+            <div className=" ContentServicesnavbarthetruth " >  <Navbar />
 
 
             </div>
